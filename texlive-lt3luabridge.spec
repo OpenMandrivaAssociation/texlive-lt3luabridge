@@ -1,6 +1,6 @@
 Name:		texlive-lt3luabridge
-Version:	64801
-Release:	2
+Version:	69867
+Release:	1
 Summary:	Execute Lua code in any TeX engine that exposes the shell
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lt3luabridge
