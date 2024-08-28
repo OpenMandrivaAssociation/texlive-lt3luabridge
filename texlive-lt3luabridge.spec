@@ -1,5 +1,5 @@
 Name:		texlive-lt3luabridge
-Version:	69867
+Version:	71704
 Release:	1
 Summary:	Execute Lua code in any TeX engine that exposes the shell
 Group:		Publishing
