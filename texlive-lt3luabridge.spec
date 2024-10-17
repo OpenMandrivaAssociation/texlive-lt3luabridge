@@ -3,7 +3,7 @@ Version:	71704
 Release:	1
 Summary:	Execute Lua code in any TeX engine that exposes the shell
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lt3luabridge
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lt3luabridge
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lt3luabridge.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lt3luabridge.doc.r%{version}.tar.xz
